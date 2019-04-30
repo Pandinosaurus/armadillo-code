@@ -2,8 +2,14 @@
 * **Armadillo source code repo & issue tracker have moved to GitLab:**  
 [**gitlab.com/conradsnicta/armadillo-code**](http://gitlab.com/conradsnicta/armadillo-code)  
 
-* **Downloads & online documentation:**  
-[**arma.sourceforge.net**](http://arma.sourceforge.net)
+* **Releases:**  
+[**arma.sourceforge.net/download.html**](http://arma.sourceforge.net/download.html)
+
+* **API Documentation:**  
+
+[**arma.sourceforge.net/docs.html**](http://arma.sourceforge.net/docs.html)
+
+
 
 ##
 
