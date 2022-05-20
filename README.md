@@ -17,5 +17,6 @@
   - [ensmallen](https://ensmallen.org) - fast non-linear numerical optimisation library
   - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms
   - [PyArmadillo](https://pyarma.sourceforge.io) - linear algebra library for Python with Matlab-like syntax <!--([repo](https://gitlab.com/jason-rumengan/pyarma/))-->
+  - [CARMA](https://github.com/RUrlus/carma) - bidirectional interface between Python and Armadillo
 
 
